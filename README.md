@@ -15,7 +15,7 @@ The Interview Scheduler is a web application designed to streamline the process 
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-repo/interview-scheduler.git
+   git clone https://github.com/Shayangiri49/Interview_Scheduler
    cd interview-scheduler
    ```
 
